@@ -1,0 +1,8 @@
+{
+  "person": [
+    { "id": 2, "login": "stev", "password": "password1" },
+    { "login": "austinf", "name": "Austin", "password": "password2" },
+    { "login": "rick", "name": "Austin", "password": "password2" },
+    { "id": "4", "login": "just", "name": "Johnny", "password": "password4" }
+  ]
+}
